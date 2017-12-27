@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Sms from="+441158243248" to="+447881682458">Gyapom Incoming Call love</Sms>
+    <Gather action="http://diy-fnkdesigns.rhcloud.com/gather.php" method="POST">
+        <Say voice="woman">Welcome! If you'd like to call Sean press 1. If you'd like Bob press 2.</Say>
+    </Gather>
+</Response>

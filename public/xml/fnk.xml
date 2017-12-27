@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Sms from="+441549260017" to="+447983951875">FNK Incoming Call Prepare</Sms>
+    <Gather numDigits="1" action="http://twillio-fnkdesigns.rhcloud.com/xml/two.xml" method="POST">
+        <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/press-1-2-3.mp3</Play>
+        <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/hold_music.mp3</Play>
+    </Gather>
+</Response>
+
+
+
+

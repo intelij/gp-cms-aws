@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/press-1-2-3.mp3</Play>
+    <Pause length="10"/>
+    <Gather numDigits="1" action="#" method="POST">
+      <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/your-call-is-important.mp3</Play>
+    </Gather>
+    <Gather numDigits="2" action="#" method="POST">
+      <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/thank-you-calling.mp3</Play>
+    </Gather>
+    <Gather numDigits="3" action="#" method="POST">
+      <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/your-call-is-important.mp3</Play>
+      <Dial>+447983951875</Dial>
+    </Gather>
+</Response>

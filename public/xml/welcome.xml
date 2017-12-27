@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Sms from="+441158243248" to="+447881682458">Gyapom Incoming Call love</Sms>
+    <Gather numDigits="1" action="http://twillio-fnkdesigns.rhcloud.com/xml/one.xml" method="POST">
+        <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/press-1-2-3.mp3</Play>
+        <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/hold_music.mp3</Play>
+    </Gather>
+</Response>
+
+
+
+

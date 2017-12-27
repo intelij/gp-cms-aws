@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- page located at http://example.com/complex_gather.xml -->
+<Response>
+    <Gather action="/GatherModelNumber" Method="POST" numDigits="10">
+        <Say>OK, lets start by getting your model number, which can be found on the back of the device and starts with the numbers 534.</Say>
+    </Gather>
+</Response>

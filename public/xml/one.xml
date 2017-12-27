@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/thank-you-calling.mp3</Play>
+    <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/hold_music.mp3</Play>
+    <Play>http://twillio-fnkdesigns.rhcloud.com/mp3/your-call-is-important.mp3</Play>
+    <Dial>+447881682458</Dial>
+</Response>
